@@ -3,6 +3,10 @@
     "package": "aussiemaps",
     "url": "https://github.com/carlosyanez/aussiemaps"
   },
+    {
+    "package": "auspol",
+    "url": "https://github.com/carlosyanez/auspol"
+  }
      {
     "package": "uofgdataanalyticsreport",
     "url": "https://github.com/carlosyanez/uofgdataanalyticsreport"
